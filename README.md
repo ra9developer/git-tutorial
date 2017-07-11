@@ -7,4 +7,8 @@ congratulation
 - feature-A
 - fix-B
 - feature-C
+
+- feature-D
+デストロイガンダム
+
 - feature-D
